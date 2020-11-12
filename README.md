@@ -1,4 +1,5 @@
 # pandas-challenge
+# Link to Jupyter Notebook: http://localhost:8888/notebooks/PyCitySchools/PyCitySchools.ipynb
 ## This challenge includes a district level summary and a school level summary.
 
 ## In this challenge the following are analyzed:
